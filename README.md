@@ -4,7 +4,12 @@ A Markdown Renderer in Python.
 ---
 
 ## Installation
-Get the install.sh from the releases and run it :)
+Get the install.sh from the releases and run it using bash:
+
+```
+bash install.sh
+```
+
 After that, install rich
 
 ```
